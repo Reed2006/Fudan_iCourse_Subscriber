@@ -1,0 +1,4 @@
+requests
+pycryptodome
+sherpa-onnx
+numpy

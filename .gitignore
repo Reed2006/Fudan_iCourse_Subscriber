@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+output/
+data/
+sherpa-onnx-sense-voice-*/
+silero_vad.onnx
+.vscode/
+.idea/
+.pytest_cache/
+.claude/
